@@ -1,8 +1,4 @@
 # Sprawdzian
 
-Twoim zadaniem jest przygotowanie zestawu klas modelujących portfel pieniędzy o różnych walutach (PLN, USD, EUR).
-Rozwiązanie ma pozwalać na:
-* tworzenie obiektów przetrzymujących wartość pieniądza
-* dodawanie pieniędzy do portfela
-* wymianę pieniędzy w portfelu na określoną walutę
-* porównywanie wartości pieniedzy w portfelach
+##Treść zadania:
+Celem tego zadania jest napisanie programu w języku Java, który wykorzystuje hierarchię dziedziczenia, klasy abstrakcyjne oraz interfejsy. Program ma symulować system zarządzania pracownikami w firmie, gdzie występują różne role pracowników (np. Menedżerowie, Programiści, Testerzy). Każdy typ pracownika powinien mieć swoje unikalne zachowania i obowiązki, a pracownicy powinni mieć metody takie jak work, attendMeeting oraz getPaid.
